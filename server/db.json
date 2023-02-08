@@ -1,0 +1,25 @@
+{
+    "careers" : [
+        {
+            "id" : 1,
+            "title": "senior React Developer",
+            "salary": 100000,
+            "location": "Chennai, India"
+            
+        },
+        {
+            "id" : 2,
+            "title": "React Developer",
+            "salary": 50000,
+            "location": "Chennai, India"
+            
+        },
+        {
+            "id" : 3,
+            "title": "Trainee",
+            "salary": 10000,
+            "location": "Banglore, India"
+            
+        }  
+    ]
+}
